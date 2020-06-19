@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
-title: About Kwang
 github:
   is_project_page: false
+theme: jekyll-theme-minimal
+title: Quang
