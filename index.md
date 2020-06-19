@@ -43,3 +43,12 @@ the trifecta of medals on my shelf. Oh I did get to go to Googleplex, Facebook H
 
 ![Image](https://i.imgur.com/ddq2hEk.jpg)
 
+### CodeChef Snackdown 2019: 
+  Could have done better but a T-shirt is very fine for me.
+![Image](https://i.imgur.com/JzYCSdU.jpg)
+
+## Extracurricular Activities
+
+### English Club Activities
+  As 
+ 
