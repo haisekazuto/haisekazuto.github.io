@@ -36,8 +36,8 @@ trophy considering that only 0.1% (or even lower) students in Vietnam has the pr
 
 ### Silicon Valley International Invention Festival
   After studying programming for over 4 years, I decided to branch out and try something new. I have always had a passion for biology and so I joined a project in 
-researching alternative cures for gout. We tried extracting and using caffeic acid from Vietnamese Perilla frutescens to try and reduce gout pain. It was definitely
-interesting being able to work in a laboratory and performing experiments on cells and even mice. In the end, our project was apporoved and we got permission to go 
+researching alternative cures for gout. We tried extracting and using caffeic acid from Vietnamese Perilla frutescens in an attempt to reduce gout pain. It was definitely
+interesting, being able to work in a laboratory and performing experiments on cells and even mice. In the end, our project was apporoved and we got permission to go 
 to the USA and present our project to businessmen and representatives around the world. It was a really fun trip, and I did get to bring home a Silver Medal, completing
 the trifecta of medals on my shelf. Oh I did get to go to Googleplex, Facebook HQ and Apple Park while I was there, too!
 
