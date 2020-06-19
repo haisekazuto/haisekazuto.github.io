@@ -25,8 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-![Image](https://imgur.com/a/YyY3Np1)
+### Talinpa Certificate: 
+![Image](https://imgur.com/S9P9Goc)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
