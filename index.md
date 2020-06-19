@@ -27,3 +27,19 @@ realized this was my last chance to do something impactful during my time as a c
 
 ![Image](https://i.imgur.com/5Jh48Pi.png)
 ![Image](https://i.imgur.com/LErXNHt.jpg)
+
+### Odon Vallet Scholaraship 2019
+  This is a scholarship given to those with exceptional talent or achievements during the past year. Doesn't have much meaning behind it, but it does make a good 
+trophy considering that only 0.1% (or even lower) students in Vietnam has the privilege to achieve one. 
+
+![Image](https://i.imgur.com/f8aO6ot.jpg)
+
+### Silicon Valley International Invention Festival
+  After studying programming for over 4 years, I decided to branch out and try something new. I have always had a passion for biology and so I joined a project in 
+researching alternative cures for gout. We tried extracting and using caffeic acid from Vietnamese Perilla frutescens to try and reduce gout pain. It was definitely
+interesting being able to work in a laboratory and performing experiments on cells and even mice. In the end, our project was apporoved and we got permission to go 
+to the USA and present our project to businessmen and representatives around the world. It was a really fun trip, and I did get to bring home a Silver Medal, completing
+the trifecta of medals on my shelf. Oh I did get to go to Googleplex, Facebook HQ and Apple Park while I was there, too!
+
+![Image](https://i.imgur.com/ddq2hEk.jpg)
+
