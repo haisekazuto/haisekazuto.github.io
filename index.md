@@ -1,8 +1,5 @@
 # Welcome to Quang Nguyen's Profile Page!
 
-This is just an experimental page that I create to tell everyone about myself and the activities that
-I have done and still doing throughout Highschool. 
-
 ## Academic Achievements 
 
 ### My First Unofficial Official ACM ICPC Contest
