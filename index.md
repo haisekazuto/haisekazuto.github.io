@@ -98,4 +98,20 @@ every piece of code.
 ![Image](https://i.imgur.com/Sk64aB6.jpg)
 
 - Nara Sakura Science Camp: 
+  During the first week of 11th Grade, I was invited to take part in this science camp. Most of it was about acquiring basic knowledge about STEM subjects as well as
+experimenting with different models to predict data and getting used to the basics of "Normal Distribution." I was also given the chance to exchange scientific knowledge 
+with peers from Japan, from high school students to even Nara Women Universities' Undergrads. 
+![Image](https://i.imgur.com/SnXraG8.jpg)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
